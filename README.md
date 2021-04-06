@@ -10,6 +10,9 @@ You will also need:
 - [Bitfocus Companion](https://bitfocus.io/companion/) (if you don't already have it)
 - [JustMacros](https://justmacros.tv/)
 
+## Where can I get the Companion configuration files?
+You can download the latest version [here](https://github.com/estilles/companion-djp-supersource4/releases).
+
 ## What's in each Companion config file?
 DJP grouped the SuperSource layouts using the categories in the table below.
 
